@@ -49,6 +49,12 @@ background: black; color: white; padding:0 20px; height: 100%;
 
 /*lateral a direita*/
 #area-lateral {
+	width: 280px;
+	float: right;
+
+}
+
+#area-lateral-produtos {
 	width: 150px;
 	float: right;
 
