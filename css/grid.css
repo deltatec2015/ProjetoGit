@@ -56,6 +56,15 @@
 	max-width: 960px;
 }
 
+.container-produtos {
+	width: 980px;
+	margin: 0 auto;
+	padding: 0px;
+	position: relative;
+	background-color: #fff;
+	max-width: 960px;
+}
+
 .container-jogos-sega { /*lanhouse junto desse container*/
 	width: 960px;
 	margin: 0 auto;

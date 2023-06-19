@@ -49,7 +49,7 @@ background: black; color: white; padding:0 20px; height: 100%;
 
 /*lateral a direita*/
 #area-lateral {
-	width: 240px;
+	width: 150px;
 	float: right;
 
 }
@@ -1403,6 +1403,31 @@ img {
 	height: 3px;
 	background: #fff;
 	margin: 6px auto 10px auto;
+}
+
+
+.lojamagazine{
+
+	
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-gap: 15px;
+	margin: 25px;
+	text-align: center;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 0,75em;
+	text-align: center;
+	border-radius: 10px;
+	padding: 5px;	
+
+}
+
+.noticias h3 {
+
+	margin-top: 30px;
+	color: #fff;
+	font-size: 30px;
+
 }
 
 /*Noticias*/
